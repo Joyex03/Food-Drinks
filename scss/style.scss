@@ -764,7 +764,7 @@ textarea:focus {
 }
 
 .breakpoint-on .classynav ul li.cn-dropdown-item > a::after,
-.breakpoint-on .classynav ul li.megamenu-item > a::after {
+.breakpoint-on .classynav ul li.cocktails-item > a::after {
     @media #{$breakpoint-md} {
         top: 10px;
     }
